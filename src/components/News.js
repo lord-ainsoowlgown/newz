@@ -18,7 +18,6 @@ export class News extends Component {
 
   constructor() {
     super();
-    console.log("Hello I am a constructor from news component");
     this.state = {
       articles: [],
       loading: true,
@@ -26,9 +25,8 @@ export class News extends Component {
     };
   }
 
-  async componentDidMount() {
-    console.log("cdm");
-    let url = `https://newsapi.org/v2/top-headlines?category=${this.props.category}&country=${this.props.country}&apiKey=9064ac42512040cca2c1f03b2037e1d7&page=1&pagesize=${this.props.pagesize}`;
+  async updateNews() {
+    const url = `https://newsapi.org/v2/top-headlines?category=${this.props.category}&country=${this.props.country}&apiKey=9064ac42512040cca2c1f03b2037e1d7&page=${this.state.page}&pagesize=${this.props.pagesize}`;
     this.setState({loading: true});
     let data = await fetch(url);
     let parsedData = await data.json();
@@ -39,32 +37,23 @@ export class News extends Component {
     });
   }
 
+  async componentDidMount() {
+    this.updateNews();
+  }
+
   handlePrevClick = async() => {
-    let url = `https://newsapi.org/v2/top-headlines?category=${this.props.category}&country=${this.props.country}&apiKey=9064ac42512040cca2c1f03b2037e1d7&page=${this.state.page - 1}&pagesize=${this.props.pagesize}`;
-    this.setState({loading: true});
-    let data = await fetch(url);
-    let parsedData = await data.json();
-    console.log(parsedData);
-    this.setState({articles: parsedData.articles,
-      page: this.state.page - 1,
-      loading: false
+    this.setState(prevState => ({ page: prevState.page - 1 }), () => {
+      this.updateNews();
     });
   }
 
   handleNextClick = async() => {
-    let url = `https://newsapi.org/v2/top-headlines?category=${this.props.category}&country=${this.props.country}&apiKey=9064ac42512040cca2c1f03b2037e1d7&page=${this.state.page + 1}&pagesize=${this.props.pagesize}`;
-    this.setState({loading: true});
-    let data = await fetch(url);
-    let parsedData = await data.json();
-    console.log(parsedData);
-    this.setState({articles: parsedData.articles,
-      page: this.state.page + 1,
-      loading: false
+    this.setState(nextState => ({ page: nextState.page + 1 }), () => {
+      this.updateNews();
     });
   }
 
   render() {
-    console.log("render")
     return (
       <div className="container my-3">
         <h1 className="text-center" style={{margin: '35px 0px'}}>Newz - Top Headlines</h1>
