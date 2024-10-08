@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ammanford school stabbing: A way to celebrity, said girl - court",
+            "description": "The girl referred to the pupil she stabbed and said: “I stabbed her. Oopsies,” the court hears.",
+            "url": "https://www.bbc.co.uk/news/articles/cj0414v2gpvo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5279/live/e621d400-823c-11ef-ad45-893aa022fcbc.jpg",
+            "publishedAt": "2024-10-04T14:37:20.6667696Z",
+            "content": "Mr Myers said the girl was brought to his office after the incident, as Mr Durbridge went to see Ms Hopkin, who was bleeding profusely\".\r\nWhen police arrived, Mr Myers explained that they asked the g… [+1357 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Royal Navy investigation finds misogyny and bullying",
+            "description": "Admiral Sir Ben Key said: \"We must be better than this and do better than we have.\"",
+            "url": "https://www.bbc.co.uk/news/articles/c9wk7ljzg2do",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+            "publishedAt": "2024-10-04T13:22:15.3690189Z",
+            "content": "Women in the Submarine Services suffered misogyny, bullying and other unacceptable behaviours, a Royal Navy investigation has found.\r\nA report published on Friday found these behaviours \"amongst all … [+421 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "'Crumblgate' : How a A$17.50 cookie sparked a social media storm",
+            "description": "The doughy drama has left foodies and influencers scratching their heads in Australia.",
+            "url": "https://www.bbc.co.uk/news/articles/cvglmr40lzlo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9227/live/30e15270-8212-11ef-9655-0d6576518f6a.jpg",
+            "publishedAt": "2024-10-04T13:07:15.0412932Z",
+            "content": "All of which prompted a confusing story, followed by an apology by the Sydney organisers.\r\nIn a statement, a spokesperson - who declined to give his full name - said that hundreds of the cookies had … [+1964 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Burglar hung out victim's washing and unpacked shopping",
+            "description": "The victim returned home to find her house broken into and a note left saying \"be happy, eat up\".",
+            "url": "https://www.bbc.co.uk/news/articles/czeg6xk6rkko",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e144/live/696d7ae0-8228-11ef-ad45-893aa022fcbc.png",
+            "publishedAt": "2024-10-04T13:07:12.1815182Z",
+            "content": "A second burglary took place at another home on 29 July, when the male homeowner received a CCTV alert on his phone which showed Wojnilowicz walking on his driveway. \r\nThe defendant went on to use th… [+1030 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Northern lights possible as huge solar flare spotted",
+            "description": "The largest solar flare since 2017 has been spotted erupting from the Sun’s surface.",
+            "url": "https://www.bbc.co.uk/news/articles/cy437gnp28zo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1ed7/live/f43422b0-8240-11ef-ad45-893aa022fcbc.jpg",
+            "publishedAt": "2024-10-04T12:52:20.572024Z",
+            "content": "A second CME is likely to hit Earth on Saturday and Sunday, associated with the solar flare which is rated X9.\r\nThat means enhanced auroral visibility is possible further south across central England… [+431 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Family of Corey Comperatore, Trump rallygoer shot dead, struggles with loss",
+            "description": "Corey Comperatore was killed in the Trump rally assassination attempt. His wife is furious at the security failures that led to his death.",
+            "url": "https://www.bbc.co.uk/news/articles/c20jez2dvw8o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4151/live/5d95e5b0-823f-11ef-822c-a50726bfda2e.png",
+            "publishedAt": "2024-10-04T12:52:19.3535784Z",
+            "content": "The wife of a former volunteer fire chief killed during Julys assassination attempt on Donald Trump in Butler, Pennsylvania, has told the BBC she is furious about the security failures that led to he… [+1728 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Bianca Williams: Met PCs win appeal over search sacking",
+            "description": "Jonathan Clapham and Sam Franks win an appeal against their dismissal from the Met last year.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgnln17zn6o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7e7f/live/73611460-823e-11ef-869d-c917f0d913e0.jpg",
+            "publishedAt": "2024-10-04T11:07:23.2917773Z",
+            "content": "Two officers who were sacked for gross misconduct after their stop and search of two athletes have won an appeal against their dismissal.\r\nMet PCs Jonathan Clapham and Sam Franks were fired in Octobe… [+495 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Bayesian sinking:  Mike Lynch drowned but daughter's death probed",
+            "description": "The inquests into the British tech tycoon, his 18-year-old daughter and two other victims of the yacht sinking have opened.",
+            "url": "https://www.bbc.co.uk/news/articles/cm24eevj8zmo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9c8e/live/a4485140-821d-11ef-9525-d3045140a49e.jpg",
+            "publishedAt": "2024-10-04T10:37:23.1504007Z",
+            "content": "British tech tycoon Mike Lynch drowned but the cause of his daughter's death when a yacht sank off the coast of Sicily is under investigation, an inquest has heard.\r\nA total of seven people died when… [+476 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Menendez brothers murder case under review in LA County",
+            "description": "The brothers, who were jailed for killing their parents at a Beverly Hills mansion, say it was self-defence.",
+            "url": "https://www.bbc.co.uk/news/articles/c8djrdzn19vo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e522/live/d33dbc50-8214-11ef-ad45-893aa022fcbc.jpg",
+            "publishedAt": "2024-10-04T08:22:18.5874879Z",
+            "content": "\"None of this information has been confirmed,\" Gascon - the most senior prosecutor in LA Country - told a news conference. \r\nHe continued: \"We are not, at this point, ready to say that we either beli… [+1028 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Questions for IDF over fall of border post Nahal Oz on 7 October",
+            "description": "The BBC has seen an army account of how Hamas overran a base, and spoken to survivors and bereaved families.",
+            "url": "https://www.bbc.co.uk/news/articles/cg7825rk8j9o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/145a/live/b6768480-8197-11ef-822c-a50726bfda2e.png",
+            "publishedAt": "2024-10-04T06:07:16.1345857Z",
+            "content": "The details we have established raise questions - including why so few soldiers were armed at a base so close to the border, why more wasnt done to respond to the intelligence and warnings that had b… [+1563 chars]"
+        }
+    ]
+}
